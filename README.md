@@ -2,7 +2,7 @@
 
 Now I just started my way.
 
-Links & Stats:
+Links & Stats:<br>
 ![Codewars Badge](https://www.codewars.com/users/WhiteGriffin/badges/large)
 
 <!--
