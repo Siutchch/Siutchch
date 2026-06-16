@@ -1,4 +1,9 @@
-## Hi there 👋
+##Hi there, My name is Gregory and i goinп to be a great programmer.
+
+Now I just started my way.
+
+Links & Stats:
+![Codewars Badge](https://www.codewars.com/users/WhiteGriffin/badges/large)
 
 <!--
 **Siutchch/Siutchch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
