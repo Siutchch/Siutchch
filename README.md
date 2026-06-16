@@ -1,4 +1,4 @@
-##Hi there, My name is Gregory and i goinп to be a great programmer.
+##Hi there, My name is Gregory and i going to be a great programmer.
 
 Now I just started my way.
 
